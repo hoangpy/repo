@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.hoangpy" name="HoangTan's Repository" version="1.0" provider-name="HoangTan">
+    <extension point="xbmc.addon.repository" name="HoangTan's Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/hoangpy/repo/removed/content/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/hoangpy/repo/removed/content/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/hoangpy/repo/removed/content/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>HoangTan's Repository</summary>
+        <description>A repository for maintained releases of addons</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
