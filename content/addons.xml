@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <addons>
-  <addon id="plugin.video.nghiencodew" name="Nghiện Code" provider-name="HoangTan" version="1.0.5">
+  <addon id="plugin.video.nghiencodew" name="Nghiện Code" provider-name="HoangTan" version="1.0.6">
     <extension point="xbmc.python.pluginsource" library="addon.py">
       <provides>video</provides>
     </extension>
